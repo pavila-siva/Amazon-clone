@@ -127,7 +127,7 @@ export const products = [
     priceCents: 3599,
     keywords: [
       "bathroom",
-      "washroom",
+      "room",
       "restroom",
       "towels",
       "bath towels"
